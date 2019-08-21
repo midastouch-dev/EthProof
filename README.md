@@ -1,10 +1,10 @@
-# EthRlp
+# EthProof
 
-RLP functions for Ethereum/RSK, WIP
+Simple proof functions for Ethereum/RSK, WIP
 
 ## References
 
-- [Solidity RLP](https://github.com/hamdiallam/Solidity-RLP)
+TBD
 
 ## License
 
