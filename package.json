@@ -1,0 +1,25 @@
+{
+  "name": "ethproof",
+  "private": true,
+  "description": "Simple proof functions for Ethereum/RSK, WIP",
+  "keywords": [
+    "proof",
+    "ethereum",
+    "rsk",
+    "solidity"
+  ],
+  "version": "0.0.1alpha",
+  "author": "Angel 'Java' Lopez <webmaster@ajlopez.com> (http://www.ajlopez.com)",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ajlopez/EthProof.git"
+  },
+  "engines": {
+    "node": ">= 8.0.0"
+  },
+  "scripts": {
+  },
+  "dependencies": {},
+  "devDependencies": {
+  }
+}
